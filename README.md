@@ -1,4 +1,4 @@
-![Banner](./assets/banner.jpeg)
+![Banner](.banner.jpeg)
 
 
 #### Project Overview
