@@ -1,7 +1,7 @@
-![Banner](banner.png)
+![Banner](./banner.jpeg)
 
 
-#### Project Overview
+## Project Overview
 
 The Economic Slowdown Early Warning System is a machine learning–based project designed to identify early signals of economic slowdown using key macroeconomic indicators.
 The goal of this system is to assist policymakers, analysts, and researchers in understanding potential economic risks before a slowdown becomes severe.
@@ -9,7 +9,7 @@ The goal of this system is to assist policymakers, analysts, and researchers in 
 
 .
 
-#### Objectives
+## Objectives
 
 - Analyze historical macroeconomic indicators
 
@@ -20,7 +20,7 @@ The goal of this system is to assist policymakers, analysts, and researchers in 
 - Convert predictions into an interpretable risk score instead of a simple yes/no output
 
 
-#### Input Features
+## Input Features
 
 The model uses the following macroeconomic indicators as input:
 
@@ -38,7 +38,7 @@ The model uses the following macroeconomic indicators as input:
 
 - Lag features are used to capture temporal economic trends and delayed impacts.
 
-#### Machine Learning Approach
+## Machine Learning Approach
 
 - Data preprocessing (handling missing values, scaling, encoding)
 
@@ -49,7 +49,7 @@ The model uses the following macroeconomic indicators as input:
 - Output provided as a probability-based slowdown risk score
 
 
-#### Technologies Used
+## Technologies Used
 
 - Python
 
@@ -64,7 +64,7 @@ The model uses the following macroeconomic indicators as input:
 - Git & GitHub
 
 
-#### Output
+## Output
 
 - The system outputs a slowdown risk score
 
