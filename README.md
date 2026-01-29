@@ -1,4 +1,6 @@
-assets/banner.jpeg
+<p align="center">
+  <img src="assets/banner.png" alt="Economic Slowdown Early Warning System" width="100%">
+</p>
 
 
 #### Project Overview
